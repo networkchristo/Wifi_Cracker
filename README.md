@@ -1,9 +1,8 @@
-Wifi_Cracker
+# Wifi_Cracker
 
-Wifi_Cracker is used for getting wifi Passwords from web browsers by using the source "ngrok" .
+<b>Wifi Cracker</b> is used for getting the password from web browsers and keylogged and hosted by using the source <b>ngrok</b>.
 
-This is for Educational purpose only . We are not responsible by getting caught by anyone . 
-
-Please use this for legal purpose , Which you have exculsive permission of the host. 
+### Note
+> This is for Educational purposes only. We are not responsible for getting caught by anyone. Please use this for legal purposes, which you have exclusive permission of the host or the owner of the network. 
 
 
